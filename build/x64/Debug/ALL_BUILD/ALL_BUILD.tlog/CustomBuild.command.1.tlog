@@ -1,0 +1,10 @@
+^C:\USERS\SHENG LU\DOCUMENTS\SCHOOL\UNDERGRADUATE\JUNIOR YEAR\SPRING SEM\ECE 3574\DICE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice" "-BC:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build" --check-stamp-file "C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

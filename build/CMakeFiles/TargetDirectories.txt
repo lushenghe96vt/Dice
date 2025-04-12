@@ -1,0 +1,5 @@
+C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/Dice.dir
+C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/my_test.dir
+C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/CMakeFiles/ZERO_CHECK.dir
