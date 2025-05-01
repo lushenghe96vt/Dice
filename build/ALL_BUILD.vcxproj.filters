@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Sheng Lu\Documents\School\Undergraduate\Junior Year\Spring Sem\ECE 3574\Dice\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Bobby Lu\Documents\School\Undergraduate\3. Junior_Year\Academics\Spring\ECE 3574\Dice\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

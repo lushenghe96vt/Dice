@@ -1,6 +1,6 @@
-^C:\USERS\SHENG LU\DOCUMENTS\SCHOOL\UNDERGRADUATE\JUNIOR YEAR\SPRING SEM\ECE 3574\DICE\BUILD\CMAKEFILES\0213AC98A6BB3A56A0CCFA63CD9ED7D7\GENERATE.STAMP.RULE
+^C:\USERS\BOBBY LU\DOCUMENTS\SCHOOL\UNDERGRADUATE\3. JUNIOR_YEAR\ACADEMICS\SPRING\ECE 3574\DICE\BUILD\CMAKEFILES\6CF8D92EAED63F0A939E5BC574AC9315\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice" "-BC:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Sheng Lu/Documents/School/Undergraduate/Junior Year/Spring Sem/ECE 3574/Dice/build/Dice.sln"
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Bobby Lu/Documents/School/Undergraduate/3. Junior_Year/Academics/Spring/ECE 3574/Dice" "-BC:/Users/Bobby Lu/Documents/School/Undergraduate/3. Junior_Year/Academics/Spring/ECE 3574/Dice/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Bobby Lu/Documents/School/Undergraduate/3. Junior_Year/Academics/Spring/ECE 3574/Dice/build/Dice.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

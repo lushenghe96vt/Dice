@@ -1,4 +1,4 @@
-//#include "Dice.h"
+#include "Dice.h"
 #include <iostream>
 #include <vector>
 #include <chrono>
@@ -48,12 +48,12 @@ void print(std::vector<int> freq, double time){
   // Summary (Paste your actual output as comment) in the code:
   // -----------------------------------------------
   /*
-  Single-threaded version:
-  10000213 9994842 10006376 10001338 9999067 9998164 : 1.824 seconds
+Single-threaded version:
+10002546 10003205 10002507 9997674 9997141 9996927 : 4.54 seconds
 
-  Multi-threaded with std::launch::async:
-  9998737 9996791 9999740 10000709 10003622 10000401 : 0.273 seconds
+Multi-threaded with std::launch::async:
+9997286 9997407 10001552 10003332 10002594 9997829 : 0.889 seconds
 
-  Multi-threaded with std::launch::deferred:
-  9998080 10000830 9999866 10007421 9999656 9994147 : 1.825 seconds
+Multi-threaded with std::launch::deferred:
+9997563 10001394 10005132 9997254 9998136 10000521 : 4.574 seconds
   */
